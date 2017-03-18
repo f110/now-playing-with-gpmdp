@@ -1,0 +1,5 @@
+package: github.com/f110/now-playing-with-gpmdp
+import:
+- package: golang.org/x/net
+  subpackages:
+  - websocket
